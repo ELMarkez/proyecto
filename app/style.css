@@ -1,0 +1,62 @@
+.titulo_uno{
+    color: rgba(1, 36, 112, 0.7);
+    font-family: "Tilt Prism", sans-serif; 
+    font-size: 20px;  
+    height: 150px;
+    width: 90px;
+    text-align: center;
+    margin-top: 50px;
+    }
+#titulo_dos{
+    color: rgba(1, 36, 112, 0.7);
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    width: 1200px;
+}
+.navegacion {
+    display: flex;
+    height: 200px;
+    width: 1340px;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#2acca3), to(#2a787e))
+}
+.navegacion_logo {
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
+.navegacion_logo2 {
+    display: flex;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
+.productos{ 
+    display:flex;
+    height: 2030px;
+    width: 1340px; 
+    background-color: rgb(43, 240, 240); 
+    margin-top: 20px">
+
+}
+
+
+
+
+.pie{
+    display: flex;
+    height: 150px;
+    width: 1340px;
+    background-color: rgb(60, 102, 238);
+    justify-content: space-between;
+    align-items: left;
+    
+}
+.contacto1 {
+     height: 150px; 
+     width: 200px; 
+     background-color: rgb(60, 102, 238); 
+     list-style: none;
+     }
